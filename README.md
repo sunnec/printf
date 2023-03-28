@@ -79,4 +79,4 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ---
 # Author: 
-[Dr Marcus](https://github.com/Dr-MarcusI) and [ABDULLAHI](https://github.com/aduadba)
+[Dr Marcus](https://github.com/Dr-MarcusI) and [CHINEDU](https://github.com/ChineduSE)
